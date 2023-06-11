@@ -3,7 +3,7 @@
 and filtering insults/bad words and the output
 will be more respectful 
 -like the F word >>f***-
-Author : safou abderrahim
+Author : *****
 """
 
 from re import sub
